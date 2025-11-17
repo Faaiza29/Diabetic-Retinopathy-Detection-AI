@@ -1,2 +1,1 @@
-# Diabetic-Retinopathy-Detection-AI
- 
+# Diabetic Retinopathy Detection Project
